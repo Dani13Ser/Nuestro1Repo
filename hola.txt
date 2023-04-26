@@ -1,4 +1,3 @@
-Este es el primer archivo que subimos a un repositorio.
-¡Hello world!
-Añado esta tercera línea
-Añado una cuarta
+Cambio el archivo totalmente 
+segunda linea 
+para secundaria
